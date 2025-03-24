@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import re
 
 # توکن ربات و رمز عبور ادمین
-TOKEN = "7805075262:AAHWIdzXJuaUncE6OKT0Uu8u8EnALmTy5bI"
+TOKEN = ""
 ADMIN_PASSWORD = "#5214255#"
 
 # حالت‌های مکالمه
